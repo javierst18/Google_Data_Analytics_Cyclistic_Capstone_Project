@@ -10,8 +10,9 @@ The Cyclistic bike share case analysis is my capstone project from the Google Da
 
 ## Links and Soucers
 
-Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 05/05/25]
-Project Source: Google Data Analytics Certificate Program. Coursera. Course 8. Module 2. Capstone Project. “How Does a Bike-Share Navigate Speedy Success”. 2025. [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
+**Data Source:** [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 05/05/25]
+
+**Project Source:** Google Data Analytics Certificate Program. Coursera. Course 8. Module 2. Capstone Project. “How Does a Bike-Share Navigate Speedy Success”. 2025. [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
 ## 2. BACKGROUND
 
@@ -94,13 +95,13 @@ I downloaded the bike trips data sets from January, 2024 to December, 2024 and p
 
 ### 6.1. DATA COMBINING 
 
-SQL Query: Data Combining
+**SQL Query:** Data Combining
 
 The first step was uploading the 2024 bike trips data to BigQuery. I combined the 12 months tables into one table named combined_table_2024 that contains 5,860,568 rows of data.
 
 ### 6.2. DATA PRE-CLEANING
 
-SQL Query: Data Pre-Cleaning
+**SQL Query:** Data Pre-Cleaning
 
 Before doing the cleaning in the process phase I explored the data to check for general inconsistencies to see what needs to be cleaned (pre-cleaning process)
 
