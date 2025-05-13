@@ -9,7 +9,7 @@ The Cyclistic bike share case analysis is my capstone project from the Google Da
 
 ## Links and Soucers
 
-Data Source: (divvy_tripdata) [https://divvy-tripdata.s3.amazonaws.com/index.html] [accessed on 05/05/25]
+Data Source: [divvy_tripdata] (https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 05/05/25]
 Project Source: Google Data Analytics Certificate Program. Coursera. Course 8. Module 2. Capstone Project. “How Does a Bike-Share Navigate Speedy Success”. 2025. [Google Data Analytics Capstone: Complete a Case Study] (https://www.coursera.org/learn/google-data-analytics-capstone)
 
 ## 2. BACKGROUND
