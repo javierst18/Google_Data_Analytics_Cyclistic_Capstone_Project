@@ -95,7 +95,7 @@ I downloaded the bike trips data sets from January, 2024 to December, 2024 and p
 
 ### 6.1. DATA COMBINING 
 
-**SQL Query:** [Data Combining](1. Data Combining.sql)
+**SQL Query:** [Data Combining](https://github.com/javierst18/Google_Data_Analytics_Cyclistic_Capstone_Project/blob/main/1.%20Data%20Combining.sql)
 
 The first step was uploading the 2024 bike trips data to BigQuery. I combined the 12 months tables into one table named combined_table_2024 that contains 5,860,568 rows of data.
 
