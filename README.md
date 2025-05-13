@@ -45,7 +45,7 @@ Cyclistic has established its brand in Chicago's bike users through the past yea
 
 ### 4.2. How can your insights drive business decisions?
 
-I will collect and analyze the bike usage from the previous 12 months (january 2024 - december 2024) to analyze and identify trends that determine insights related to the bikes usage and the difference between casual riders and annual members to better determine how to make an efficient campaign to convert the first ones into the second ones.
+I will collect and analyze the bike usage from the previous 12 months (January 2024 - December 2024) to analyze and identify trends that determine insights related to the bikes usage and the difference between casual riders and annual members to better determine how to make an efficient campaign to convert the first ones into the second ones.
 
 ### 4.3. Identify the business task
 
@@ -264,7 +264,7 @@ I created many tables to calculate the percentages of different bikes usage per 
 
 ## 8. SHARE PHASE
 
-**Data Visualization:** to interact with my visualizations check my [Tableau profile](https://public.tableau.com/app/profile/javier.salazar.tuchez/viz/GoogleDataAnalyticsCertificate-AnalysisCyclistic2024-CapstoneProject/1_BikeTypes#1).
+**Data Visualization:** [Tableau](https://public.tableau.com/app/profile/javier.salazar.tuchez/viz/GoogleDataAnalyticsCertificate-AnalysisCyclistic2024-CapstoneProject/1_BikeTypes#1).
 
 In this phase I created visualizations with Tableau to present the analysis to the stakeholders. After each visualization is a short summary of the analysis made to better understand each graph or chart.
 
