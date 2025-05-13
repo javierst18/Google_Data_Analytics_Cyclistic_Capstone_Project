@@ -14,6 +14,15 @@ The Cyclistic bike share case analysis is my capstone project from the Google Da
 
 **Project Source:** Google Data Analytics Certificate Program. Coursera. Course 8. Module 2. Capstone Project. “How Does a Bike-Share Navigate Speedy Success”. 2025. [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
+**SQL Queries:**
+
+1. Data Combining
+2. Data Pre-Cleaning
+3. Data Cleaning
+4. Data Analysis
+
+**Data Visualization:** [Tableu](https://public.tableau.com/app/profile/javier.salazar.tuchez/viz/GoogleDataAnalyticsCertificate-AnalysisCyclistic2024-CapstoneProject/11_EndingLocations)
+
 ## 2. BACKGROUND
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. 
@@ -166,3 +175,5 @@ RESULT = There are 250,270 trips shorter than 1 min and longer than 1 day. These
 ### 6.3. DATA CLEANING
 
 SQL Query: Data Cleaning
+
+
